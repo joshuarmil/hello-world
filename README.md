@@ -1,5 +1,4 @@
 # hello-world
 This is gonna be great, I can feel it
 
-Can't wait to win git hub
-P dawg doesn't stand a chance
+This is my latest attempt at GitHub and relearning the flow. Hope this works...
